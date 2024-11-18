@@ -77,9 +77,5 @@ button:hover {
         <p>akuu ada pesan buatt kamuu, Tetep lahh jadii orang yang baikk, tetap jadi diri kamuu yang apaa adanyaa yaaa kita tak perlu mengikuti standar orang lain karena kita punya versi terbaik diri kita sendiri.</p>
         </div>
     </div>
-
-    <script>
-     
-    </script>
 </body>
 </html>
